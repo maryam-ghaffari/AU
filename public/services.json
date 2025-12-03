@@ -1,0 +1,32 @@
+[
+  {
+    "id": "oljebyte",
+    "name": "Oljebyte",
+    "description": "Byte av motorolja och oljefilter. Kontroll av oljenivå.",
+    "duration": 30,
+    "price": 895
+  },
+  {
+    "id": "bromsjustering",
+    "name": "Bromsjustering",
+    "description": "Kontroll och justering av bromsar. Kontroll av bromsvätska.",
+    "duration": 45,
+    "price": 1295
+  },
+  {
+    "id": "full-service",
+    "name": "Full service",
+    "description": "Komplett service inklusive oljebyte, filterbyte, kontroll av bromsar, däck och alla vätskor.",
+    "duration": 120,
+    "price": 2495
+  },
+  {
+    "id": "dackbyte",
+    "name": "Däckbyte",
+    "description": "Byte av däck (sommar/vinter). Balansering och kontroll av däcktryck.",
+    "duration": 60,
+    "price": 695
+  }
+]
+
+

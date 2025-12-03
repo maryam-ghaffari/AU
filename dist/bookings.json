@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "customerName": "Anna Andersson",
+    "email": "anna.andersson@example.com",
+    "phone": "070-1234567",
+    "registrationNumber": "ABC123",
+    "serviceType": "Oljebyte",
+    "date": "2025-01-15",
+    "time": "10:00",
+    "status": "pending",
+    "completedAction": null
+  },
+  {
+    "id": 2,
+    "customerName": "Erik Johansson",
+    "email": "erik.johansson@example.com",
+    "phone": "070-2345678",
+    "registrationNumber": "XYZ789",
+    "serviceType": "Full service",
+    "date": "2025-01-16",
+    "time": "14:00",
+    "status": "pending",
+    "completedAction": null
+  },
+  {
+    "id": 3,
+    "customerName": "Maria Svensson",
+    "email": "maria.svensson@example.com",
+    "phone": "070-3456789",
+    "registrationNumber": "DEF456",
+    "serviceType": "Däckbyte",
+    "date": "2025-01-14",
+    "time": "09:00",
+    "status": "completed",
+    "completedAction": "Däckbyte genomfört. Alla fyra däck bytta till vinterdäck."
+  },
+  {
+    "id": 4,
+    "customerName": "Lars Nilsson",
+    "email": "lars.nilsson@example.com",
+    "phone": "070-4567890",
+    "registrationNumber": "GHI789",
+    "serviceType": "Bromsjustering",
+    "date": "2025-01-17",
+    "time": "11:00",
+    "status": "in_progress",
+    "completedAction": null
+  },
+  {
+    "id": 5,
+    "customerName": "Sara Karlsson",
+    "email": "sara.karlsson@example.com",
+    "phone": "070-5678901",
+    "registrationNumber": "JKL012",
+    "serviceType": "Oljebyte",
+    "date": "2025-01-18",
+    "time": "13:00",
+    "status": "pending",
+    "completedAction": null
+  }
+]
+
+
